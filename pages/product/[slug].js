@@ -11,7 +11,6 @@ import React, { useContext, useEffect } from "react";
 import { toast } from "react-toastify";
 
 
-//https://youtu.be/_IBlyR5mRzA?t=8426
 
 export default function ProductScreen(props){
     const {product} = props
